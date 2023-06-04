@@ -1,11 +1,10 @@
-# Getting Started with Create React App
 # Website link
 https://analyzetext.netlify.app/
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-# React Readme
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
