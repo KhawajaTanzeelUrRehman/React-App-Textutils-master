@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 # Website link
-https://helpful-moonbeam-a3d938.netlify.app
+https://analyzetext.netlify.app/
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+# How to run code
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
