@@ -5,7 +5,7 @@ https://analyzetext.netlify.app/
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-# How to run code
+# React Readme
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
