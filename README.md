@@ -42,3 +42,7 @@ This project is open source, and you are free to use it in accordance with the t
 For any inquiries or feedback, please feel free to reach out to us at khawajatanzeel.55221@gmail.com.
 
 Please feel free to modify and customize the above README template to match your project's specific details and requirements. It's essential to provide clear instructions on how to use the web application, outline its features, and encourage contributions from the community.
+# Screenshots
+![image](https://github.com/KhawajaTanzeelUrRehman/React-App-Textutils-master/assets/77752933/de76fa52-c286-4504-af51-69efde559076)
+![image](https://github.com/KhawajaTanzeelUrRehman/React-App-Textutils-master/assets/77752933/c483b5b5-1d8a-41e0-8280-50ebd9c7df55)
+![image](https://github.com/KhawajaTanzeelUrRehman/React-App-Textutils-master/assets/77752933/0990ccf3-b80e-4ba3-85fd-41c084d03df8)
